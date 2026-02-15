@@ -144,7 +144,10 @@ replit.nix
 
 **Content:**
 ```
-discord.py>=2.0.0
+discord.py>=2.0.0<img width="583" height="843" alt="Screenshot 2026-02-15 085739" src="https://github.com/user-attachments/assets/2e42fcb2-d085-489e-87ac-284b8a3eeb6c" />
+<img width="698" height="1063" alt="Screenshot 2026-02-15 085730" src="https://github.com/user-attachments/assets/504585e2-4820-40e8-bde4-fd2f6f5e89c9" />
+<img width="625" height="742" alt="Screenshot 2026-02-15 085845" src="https://github.com/user-attachments/assets/fef27ffb-2ed5-439b-819a-5ace757ca625" />
+
 gspread>=5.0.0
 oauth2client>=4.1.3
 ```
